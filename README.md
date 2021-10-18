@@ -1,22 +1,12 @@
-Sangkuriang
-STILL IN DEVELOPMENT
+# Sangkuriang
+
+> STILL IN DEVELOPMENT
 
 Sangkuriang is Frontend for Sangkuriang Project, A security analyzer tools You can find the detail flow in [Malinkundang](https://github.com/Proyek-Sangkuriang/malinkundang)
-
-Contributing ?
-Fork the repo, make changes and send a PR. We'll review it together! but please, see the detail flow first before making any changes.
-
-License
-This project is licensed under the terms of MIT license.
-
-Contact Us
-Email : hubungi.aja@gmail.com
-
 
 ## Setup environment
 
 To use our build system and run our documentation locally, you'll need a copy of Tabler's source files. Follow the steps below:
-
 
 1. [Install Node.js](https://nodejs.org/download/), which we use to manage our dependencies.
 2. Navigate to the root `/sangkuriang` directory and run `npm install` to install our local dependencies listed in `package.json`.
@@ -34,3 +24,14 @@ Once you complete the setup, you'll be able to run the various commands provided
 **Note**:
 Run `npm run build` for reforms a one off build application without refresh.
 Open [http://localhost:3001](http://localhost:3001) to configure the Web server.
+
+## Contributing ?
+Fork the repo, make changes and send a PR. We'll review it together! but please, see the detail flow first before making any changes.
+
+## License
+This project is licensed under the terms of MIT license.
+
+## Contact Us
+Email : hubungi.aja@gmail.com
+
+> This frontend built is based on Tabler, a premium and open source dashboard template with a responsive and high-quality UI, click [here](https://github.com/tabler/tabler) for the detail's about Tabler

@@ -3,28 +3,11 @@
 > STILL IN DEVELOPMENT
 
 Sangkuriang is Frontend for Sangkuriang Project, A security analyzer tools
-You find the Frontend in https://github.com/Proyek-Sangkuriang/sangkuriang
-
-# Project flow
-![Sangkuriang](https://github.com/Proyek-Sangkuriang/malinkundang/blob/master/flow/Tech-Flowchart.png)
-
-## Features
-
-+ Python FastAPI backend.
-+ MongoDB database.
-+ Authentication.
-+ OWASP ZAP
-    + Spider mode
-+ NMAP
-    + Top 200 open ports
-
-## How To Use
-
-See : [Malinkundang](https://github.com/Proyek-Sangkuriang/malinkundang)
+You can find the detail flow in [Malinkundang](https://github.com/Proyek-Sangkuriang/malinkundang)
 
 ## Contributing ?
 
-Fork the repo, make changes and send a PR. We'll review it together!
+Fork the repo, make changes and send a PR. We'll review it together! but please, see the detail flow first before making any changes.
 
 ## License
 
